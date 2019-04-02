@@ -27,3 +27,4 @@ ode45(@yprima_pendulo_invertido, linspace(0,100,100), [0.1 -0.1]);
 
 ode45(@yprima_pendulo_invertido, linspace(0,100,100), [0.1 -0.1]);
 ode45(@yprima_pendulo_invertido, linspace(0,100,100), [0.01 -0.01]);
+
