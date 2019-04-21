@@ -1,6 +1,6 @@
 # TP-Pendulo
 
-Teoría de las ecuaciones diferenciales ordinarias. Resolución mediante Euler y Runge-Kutta (Análisis Numérico I)
+Teoría de las ecuaciones diferenciales ordinarias. Resolución mediante Euler y Runge-Kutta (_Análisis Numérico I - FIUBA_)
 
 ### Run
 
